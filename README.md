@@ -1,3 +1,3 @@
-# Fire-Detection-with-Tensorflow-2.0
+# Fire-Detection
 #### Detecting fire on live camera feed to alert or notify for emergency services<br>
 ###### Remaining integration with webcam
